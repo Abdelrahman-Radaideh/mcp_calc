@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "calculator-online": {
+            "command": "curl",
+            "args": [
+                "-N",
+                "https://mcp-calc-0.onrender.com/sse"
+            ]
+        }
+    }
+}
