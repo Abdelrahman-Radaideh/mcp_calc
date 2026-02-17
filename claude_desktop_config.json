@@ -4,7 +4,7 @@
             "command": "curl",
             "args": [
                 "-N",
-                "https://mcp-calc-0.onrender.com/mcp"
+                "https://mcp-calc-1.onrender.com/mcp"
             ]
         }
     }
