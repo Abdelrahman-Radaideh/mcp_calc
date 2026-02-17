@@ -4,6 +4,8 @@
             "command": "curl",
             "args": [
                 "-N",
+                "-H",
+                "Accept: text/event-stream",
                 "https://mcp-calc-1.onrender.com/mcp"
             ]
         }
