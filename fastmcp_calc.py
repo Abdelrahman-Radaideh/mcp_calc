@@ -51,5 +51,5 @@ def divide(a: float, b: float) -> float:
 if __name__ == '__main__':
 
     #mcp.run()#STDIO by defualt
-    mport = int(os.environ.get("PORT", 8002))
+    port = int(os.environ.get("PORT", 8002))
     mcp.run(transport="http", host="0.0.0.0", port=port)
